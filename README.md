@@ -1,6 +1,8 @@
-# Repositori Projecte2
+# Repositori Projecte3
 
-Benvinguts a EverPia, una consultora IT que té com a missió resoldre els reptes tecnològics de clients molt diversos. Acabeu d’incorporar-vos a l’empresa com a nous consultors júnior i, a partir d’avui, formareu part de l’equip que dona servei a diferents organitzacions. Cada client té les seves necessitats concretes i, sovint, semblen projectes inconnexos. Però no us enganyeu: el que realment us demanem és capacitat d’adaptació, visió global i organització.
+Després de mesos de feina intensa, nits de pizza i commits a última hora, la consultora EverPia ha viscut el seu primer gran èxit. Els clients estan contents, les presentacions van triomfar i, fins i tot, els tècnics van aconseguir fer funcionar el servidor… sense reiniciar-lo cada cinc minuts.
+ Un miracle digne d’estudi.
+
 
 
 - [Tasca02](Tasca02/README.md)
