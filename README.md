@@ -5,7 +5,7 @@ Després de mesos de feina intensa, nits de pizza i commits a última hora, la c
 
 
 
-- [Tasca02](Tasca02/README.md)
+- [Tasca01](Tasca01/README.md)
 - [Tasca03](Tasca03/README.md)
 - [Tasca08](Tasca08/README.md)
   
