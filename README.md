@@ -1,30 +1,31 @@
-# Projecte 3: Sobreviure en una empresa IT 🚒💻
+# Projecte 3: Sobreviure en una empresa IT
 
-## 🧭 Introducció
-Benvinguts al **Projecte 3** — *EverPia 2*. En aquest projecte formatiu us posaràs a la pell d’un equip tècnic dins d’una consultora IT real. L’objectiu és aprendre a treballar amb organització, planificació i col·laboració, mentre apliqueu els coneixements tècnics en entorns de producció. Farem servir la metodologia **Kanban** (per exemple, Microsoft Planner o GitHub Projects) i gestionarem tant el codi com la documentació a través de **GitHub** amb fitxers en **Markdown**.
+## Introducció
+Benvinguts al **Projecte 3 - EverPia 2**. Aquest projecte simula la feina d’un equip tècnic dins d’una consultora IT real. L'objectiu és aprendre a treballar amb organització, planificació i col·laboració, aplicant coneixements tècnics en entorns de producció. Utilitzarem la metodologia **Kanban** (per exemple, Microsoft Planner o GitHub Projects) i gestionarem el codi i la documentació a través de **GitHub**, amb fitxers en **Markdown**.
 
-## 🎯 Missió del projecte
-Com a tècnics/júnior d'EverPia, la vostra missió serà:
-- Resoldre incidències i "apagar incendis" a la infraestructura IT.
+## Missió del projecte
+Com a tècnics/júnior d'EverPia, el vostre repte serà:
+- Resoldre incidències i gestionar problemes urgents a la infraestructura.
 - Mantenir els serveis crítics operatius 24/7 (DNS, DHCP, LDAP, LVM, NTP, backups, etc.).
-- Documentar totes les intervencions i justificar les solucions adoptades.
+- Documentar detalladament totes les intervencions i explicar les solucions aplicades.
 
-## 🎓 Objectius
-- Consolidar competències en **sistemes**, **xarxes** i **serveis corporatius**.
-- Aplicar tècniques de **manteniment**, **seguretat** i **optimització de servidors**.
-- Desenvolupar habilitats per resoldre **problemes complexos** sota pressió.
-- Redactar **documentació tècnica clara** i **reproductible** utilitzant Markdown.
-- Fomentar el treball en equip, la responsabilitat i l’autonomia dins d’un entorn real.
+## Objectius
+- Consolidar coneixements en **sistemes**, **xarxes** i **serveis corporatius**.
+- Aplicar tècniques de **manteniment**, **seguretat** i **optimització** de servidors.
+- Aprendre a resoldre **problemes complexos** sota pressió.
+- Redactar **documentació tècnica clara** i **detallada** utilitzant Markdown.
+- Fomentar el treball en equip, la responsabilitat i l’autonomia.
 
-## 🧩 Reptes i Activitats
-Durant el projecte realitzareu diverses tasques pràctiques, entre les quals es destaquen:
+## Reptes i Activitats
+Durant el projecte realitzareu diverses activitats pràctiques, com ara:
 - Crear i configurar el vostre compte i repositori a **GitHub**, incloent-hi un **README** personal.
-- Documentar processos tècnics i bones pràctiques utilitzant **Markdown**.
-- Seleccionar i justificar un **SAI (UPS)** per garantir la protecció elèctrica.
-- Recuperar sistemes bloquejats i **configurar servidors Linux**.
-- Desplegar i configurar **serveis de xarxa** com DNS, DHCP, NTP, LDAP, entre d’altres.
-- Dissenyar i validar plans de **backup** i **recuperació de dades**.
-- Desenvolupar i presentar una **pàgina web** o una proposta de **hosting** per un client.
+- Documentar processos tècnics i bones pràctiques amb **Markdown**.
+- Seleccionar i justificar l'elecció d’un **SAI (UPS)** per garantir la protecció elèctrica.
+- Recuperar sistemes bloquejats i configurar servidors **Linux**.
+- Desplegar serveis de xarxa (DNS, DHCP, NTP, LDAP, etc.).
+- Dissenyar i validar plans de **backup** i **recuperació**.
+- Desenvolupar i presentar una **pàgina web** o una proposta de **hosting** per a un client.
+
 ---
 
 ## 📝 Tasques
