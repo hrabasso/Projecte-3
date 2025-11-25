@@ -6,9 +6,9 @@
 // organization
 //include "/etc/bind/zones.rfc1918";
 
-zone "digicore-26.test" {
+zone "digicore-25.test" {
 	type master;
-	file "/etc/bind/zones/db.digicore-26.test";
+	file "/etc/bind/zones/db.digicore-25.test";
 	allow-transfer {192.168.4.5;};
 };
 
@@ -24,8 +24,8 @@ zone "waytoit.test" {
         masters {172.0.2.49;};
 };
 
-zone "digicore-05.test" {
+zone "digicore-25.test" {
         type slave;
-        file "db.digicore-05";
+        file "db.digicore-25";
         masters {192.168.4.5;};
 };
